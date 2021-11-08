@@ -1,7 +1,7 @@
 // 1. Change the title of the page to `Hello AltCampus!`
-
+document.title = Hello Altcampus
 // 2. Select the element using the children property:
-
+document.querySelector(`h1)
 //    - Select the `h1` element and change the value to `Learning DOM`
 
 //    - Select the first `li` element inside the `ul` with class `topics` and change the innerText to `all about document`
