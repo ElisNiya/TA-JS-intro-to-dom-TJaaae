@@ -1,11 +1,11 @@
 // Select the h1 element and store it in a variable named heading.
-
+let heading = document.querySelector("h1)
 // Check the typeof heading and log it.
-
+console.log(type of heading)
 // Change the color of heading to black.
-
+heading.color="black"
 // Select all the hr elements and store it in a variable named allHrs using querySelectorAll
-
+let allHrs=document.querySelectorAll()
 /* 
 Convert the NodeList returned by querySelectorAll to Array using Array.from() or spread operator and store it in allHrsArray
 
